@@ -24,5 +24,4 @@ The following **bonus** features are implemented:
 Url of Gif in case it doesn't work
 https://i.imgur.com/CgFnr7w.gif
 Here's a walkthrough of implemented user stories:
-![](https://i.imgur.com/CgFnr7w.gif)
 <img src='https://i.imgur.com/CgFnr7w.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
