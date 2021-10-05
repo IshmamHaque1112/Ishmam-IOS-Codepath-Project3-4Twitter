@@ -1,5 +1,5 @@
 # Ishmam-IOS-Codepath-Project3-4Twitter
-This is where both my third and fourth project are stored
+This is where both my third and fourth project are stored ezyzip 3 is 3, ezyzip 4 is 4
 # Twitter - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
